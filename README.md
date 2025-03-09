@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfoliochatbot
 Portifolio with chatbot 
 
