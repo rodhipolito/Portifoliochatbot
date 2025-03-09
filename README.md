@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Portifoliochatbot
+# Portfoliochatbot
 Portifolio with chatbot 
 
 
